@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/precautions"
+            android:title="@string/precautions"
+            android:icon="@drawable/ic_home">
+
+        </item>
+        <item
+            android:id="@+id/vaccines"
+            android:title="@string/vaccine"
+            android:icon="@drawable/ic_vaccines">
+
+        </item>
+
+        <item
+            android:id="@+id/forhelp"
+            android:title="@string/for_help"
+            android:icon="@drawable/ic_forhelp">
+
+        </item>
+
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,72 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vaccines"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/vac" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COVAXIN"
+            android:textSize="40dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COVAXIN®, India's indigenous COVID-19 vaccine by Bharat Biotech is developed in collaboration with the Indian Council of Medical Research (ICMR) - National Institute of Virology (NIV).
+
+The indigenous, inactivated vaccine is developed and manufactured in Bharat Biotech's BSL-3 (Bio-Safety Level 3) high containment facility.
+
+The vaccine is developed using Whole-Virion Inactivated Vero Cell derived platform technology. Inactivated vaccines do not replicate and are therefore unlikely to revert and cause pathological effects. They contain dead virus, incapable of infecting people but still able to instruct the immune system to mount a defensive reaction against an infection."
+            android:textSize="15sp" />
+        Sputnik Vaccine Registration, Efficacy, Price, Side Effects, Dose Gap and other details on this Russian Vaccine can be checked from here. The number of Corona patients is increasing day and night at present in the country. In such a situation, Sputnik Vaccine can prove to be very useful. In this vaccine made by Sputnik V, all the properties are being told which will prove to be a boon in the corona epidemic. Research on this vaccine has been described in great detail by the authorities.
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COVISHIELD"
+            android:textSize="40dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="It has approved Johnson and Johnson's single-dose vaccine for emergency use.
+
+The vaccine, which has shown 85% efficacy, will be introduced in India through a supply agreement with homegrown vaccine maker Biological E.
+
+It's still unclear when the vaccine will be available for use in India - Johnson and Johnson said it was too early to give a delivery timeline.
+
+India has so far given more than 500 million doses of three approved vaccines - Covishield, Covaxin and Russia's Sputnik V."
+            android:textSize="15sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SPUNTINK"
+            android:textSize="40dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sputnik Vaccine Registration, Efficacy, Price, Side Effects, Dose Gap and other details on this Russian Vaccine can be checked from here. The number of Corona patients is increasing day and night at present in the country. In such a situation, Sputnik Vaccine can prove to be very useful. In this vaccine made by Sputnik V, all the properties are being told which will prove to be a boon in the corona epidemic. Research on this vaccine has been described in great detail by the authorities."
+            android:textSize="15sp"></TextView>
+    </TableLayout>
+</ScrollView>
+
+
